@@ -1,0 +1,10 @@
+#variables 
+#What is variables?
+#variables is a reserver memory location like a container stores things and variable stores data. data have different froms like int, float,string,boolean so on . 
+#example : a = 7 , a = "a"
+# now we store a some data into variable and call it 
+
+name = "madhusudan"
+height = 1.56  #in meters
+weight = 74     #in kg
+print(name)
