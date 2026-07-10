@@ -45,6 +45,8 @@ c = x
 x = y
 y = c
 print("After swapping: x =", x, "y =", y)
+
+
 #   Fahrenheit=(Celsius×59​)+32
 celsius = float(input("Enter temperature in Celsius: "))
 fahrenheit = (celsius * 9/5) + 32
